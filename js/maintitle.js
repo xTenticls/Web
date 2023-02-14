@@ -12,4 +12,4 @@ function animateTitle(Title, delay) {
     }, delay)
 }
   
-animateTitle('SNT-CHEATS', 300);
+animateTitle('SNT-HookWare', 300);
